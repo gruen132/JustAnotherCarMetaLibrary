@@ -1,0 +1,553 @@
+{
+  "folders": [
+    {
+      "id": "vs9zu2ojhb61",
+      "name": "BLUE",
+      "color": "#1e88e5",
+      "gradient": [
+        "#1e88e5",
+        "#1e88e5"
+      ],
+      "colorStart": "#1e88e5",
+      "colorEnd": "#1e88e5",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Blue",
+        "Blue 2022",
+        "Blue 2023",
+        "Blue 2024",
+        "Blue 2025",
+        "Blue 2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Blue",
+        "tag:Blue 2022",
+        "tag:Blue 2023",
+        "tag:Blue 2024",
+        "tag:Blue 2025",
+        "tag:Blue 2026"
+      ]
+    },
+    {
+      "id": "18q0vlsk5j3f",
+      "name": "WHITE",
+      "color": "#f5f5f5",
+      "gradient": [
+        "#f5f5f5",
+        "#f5f5f5"
+      ],
+      "colorStart": "#f5f5f5",
+      "colorEnd": "#f5f5f5",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "White",
+        "White 2024",
+        "White 2025",
+        "White 2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:White",
+        "tag:White 2024",
+        "tag:White 2025",
+        "tag:White 2026"
+      ]
+    },
+    {
+      "id": "wc61szpent9k",
+      "name": "STRIPED",
+      "color": "#9575cd",
+      "gradient": [
+        "#9575cd",
+        "#9575cd"
+      ],
+      "colorStart": "#9575cd",
+      "colorEnd": "#9575cd",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Striped",
+        "Striped 2024",
+        "Striped 2025",
+        "Striped 2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Striped",
+        "tag:Striped 2024",
+        "tag:Striped 2025",
+        "tag:Striped 2026"
+      ]
+    },
+    {
+      "id": "bczftvam1eh8",
+      "name": "NEW BLUR",
+      "color": "#f06292",
+      "gradient": [
+        "#f06292",
+        "#f06292"
+      ],
+      "colorStart": "#f06292",
+      "colorEnd": "#f06292",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "New Blur",
+        "New Blur 2025"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:New Blur",
+        "tag:New Blur 2025"
+      ]
+    },
+    {
+      "id": "3x1lhihlfpr0",
+      "name": "GRAY",
+      "color": "#90969e",
+      "gradient": [
+        "#90969e",
+        "#90969e"
+      ],
+      "colorStart": "#90969e",
+      "colorEnd": "#90969e",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Gray",
+        "Gray 2022",
+        "Gray 2024",
+        "Gray 2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Gray",
+        "tag:Gray 2022",
+        "tag:Gray 2024",
+        "tag:Gray 2026"
+      ]
+    },
+    {
+      "id": "jmndmkkqtojl",
+      "name": "WHITE EXPOSED",
+      "color": "#fad47a",
+      "gradient": [
+        "#fad47a",
+        "#fad47a"
+      ],
+      "colorStart": "#fad47a",
+      "colorEnd": "#fad47a",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "White Bit Exposed",
+        "White Very Exposed"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:White Bit Exposed",
+        "tag:White Very Exposed"
+      ]
+    },
+    {
+      "id": "lhootlvwmgts",
+      "name": "STRIPED EXPOSED",
+      "color": "#ca9466",
+      "gradient": [
+        "#ca9466",
+        "#ca9466"
+      ],
+      "colorStart": "#ca9466",
+      "colorEnd": "#ca9466",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Striped Very Exposed"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Striped Very Exposed"
+      ]
+    },
+    {
+      "id": "dy0qjjcyvqtt",
+      "name": "COMBINATIONS",
+      "color": "#eceff1",
+      "gradient": [
+        "#eceff1",
+        "#eceff1"
+      ],
+      "colorStart": "#eceff1",
+      "colorEnd": "#eceff1",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [],
+      "aliases": [],
+      "countAliases": true,
+      "children": [
+        {
+          "id": "6hwionijuljb",
+          "name": "Brake light",
+          "color": "#ff1744",
+          "gradient": [
+            "#ff1744",
+            "#ff1744"
+          ],
+          "colorStart": "#ff1744",
+          "colorEnd": "#ff1744",
+          "noGrad": true,
+          "gradTags": false,
+          "gradFolders": false,
+          "expanded": true,
+          "visible": true,
+          "tags": [],
+          "aliases": [],
+          "countAliases": true,
+          "children": [
+            {
+              "id": "c4sob8g38oda",
+              "name": "BL",
+              "color": "#ff1744",
+              "gradient": [
+                "#ff1744",
+                "#ff1744"
+              ],
+              "colorStart": "#ff1744",
+              "colorEnd": "#ff1744",
+              "noGrad": true,
+              "gradTags": false,
+              "gradFolders": false,
+              "expanded": true,
+              "visible": true,
+              "tags": [
+                "Blue BL",
+                "Blue BL 2023",
+                "Blue BL 2024",
+                "Blue BL 2025",
+                "Gray BL",
+                "White BL",
+                "White BL 2024",
+                "White BL 2025"
+              ],
+              "aliases": [],
+              "countAliases": true,
+              "children": [],
+              "_inheritedColor": null,
+              "useParentColor": false,
+              "itemsOrder": [
+                "tag:Blue BL",
+                "tag:Blue BL 2023",
+                "tag:Blue BL 2024",
+                "tag:Blue BL 2025",
+                "tag:Gray BL",
+                "tag:White BL",
+                "tag:White BL 2024",
+                "tag:White BL 2025"
+              ]
+            },
+            {
+              "id": "l4wrebsyawfa",
+              "name": "NoBL",
+              "color": "#607d8b",
+              "gradient": [
+                "#607d8b",
+                "#607d8b"
+              ],
+              "colorStart": "#607d8b",
+              "colorEnd": "#607d8b",
+              "noGrad": true,
+              "gradTags": false,
+              "gradFolders": false,
+              "expanded": true,
+              "visible": true,
+              "tags": [
+                "Blue NoBL",
+                "Blue NoBL 2022",
+                "Blue NoBL 2023",
+                "Blue NoBL 2024",
+                "Blue NoBL 2025",
+                "Blue NoBL 2026",
+                "Gray NoBL",
+                "Gray NoBL 2022",
+                "Gray NoBL 2024",
+                "Gray NoBL 2026",
+                "Striped NoBL",
+                "Striped NoBL 2024",
+                "Striped NoBL 2025",
+                "Striped NoBL 2026",
+                "White NoBL",
+                "White NoBL 2024",
+                "White NoBL 2025",
+                "White NoBL 2026"
+              ],
+              "aliases": [],
+              "countAliases": true,
+              "children": [],
+              "_inheritedColor": null,
+              "useParentColor": false,
+              "itemsOrder": [
+                "tag:Blue NoBL",
+                "tag:Blue NoBL 2022",
+                "tag:Blue NoBL 2023",
+                "tag:Blue NoBL 2024",
+                "tag:Blue NoBL 2025",
+                "tag:Blue NoBL 2026",
+                "tag:Gray NoBL",
+                "tag:Gray NoBL 2022",
+                "tag:Gray NoBL 2024",
+                "tag:Gray NoBL 2026",
+                "tag:Striped NoBL",
+                "tag:Striped NoBL 2024",
+                "tag:Striped NoBL 2025",
+                "tag:Striped NoBL 2026",
+                "tag:White NoBL",
+                "tag:White NoBL 2024",
+                "tag:White NoBL 2025",
+                "tag:White NoBL 2026"
+              ]
+            }
+          ],
+          "_inheritedColor": null,
+          "useParentColor": false
+        }
+      ],
+      "_inheritedColor": null,
+      "useParentColor": false
+    },
+    {
+      "id": "w542ni6qtzkj",
+      "name": "BRAKE LIGHT",
+      "color": "#ff1744",
+      "gradient": [
+        "#ff1744",
+        "#ff1744"
+      ],
+      "colorStart": "#ff1744",
+      "colorEnd": "#ff1744",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "BL",
+        "NoBL"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:BL",
+        "tag:NoBL"
+      ]
+    },
+    {
+      "id": "7vdm0hllso57",
+      "name": "EXPOSURE",
+      "color": "#ffb300",
+      "gradient": [
+        "#ffb300",
+        "#ffb300"
+      ],
+      "colorStart": "#ffb300",
+      "colorEnd": "#ffb300",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Exposed Bit",
+        "Exposed Very",
+        "Unexposed"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Exposed Bit",
+        "tag:Exposed Very",
+        "tag:Unexposed"
+      ]
+    },
+    {
+      "id": "84j3o6040gt1",
+      "name": "CAMERA",
+      "color": "#00897b",
+      "gradient": [
+        "#00897b",
+        "#00897b"
+      ],
+      "colorStart": "#00897b",
+      "colorEnd": "#00897b",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Gen 3"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Gen 3"
+      ]
+    },
+    {
+      "id": "qn22rgwgfr60",
+      "name": "YEAR",
+      "color": "#377b4e",
+      "gradient": [
+        "#377b4e",
+        "#a5a122"
+      ],
+      "colorStart": "#377b4e",
+      "colorEnd": "#a5a122",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "2012",
+        "2013",
+        "2014",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:2012",
+        "tag:2013",
+        "tag:2014",
+        "tag:2021",
+        "tag:2022",
+        "tag:2023",
+        "tag:2024",
+        "tag:2025",
+        "tag:2026"
+      ]
+    },
+    {
+      "id": "8c33ssyy2x8q",
+      "name": "MONTH",
+      "color": "#2661d8",
+      "gradient": [
+        "#2661d8",
+        "#2661d8"
+      ],
+      "colorStart": "#2661d8",
+      "colorEnd": "#2661d8",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:January",
+        "tag:February",
+        "tag:March",
+        "tag:April",
+        "tag:May",
+        "tag:June",
+        "tag:July",
+        "tag:August",
+        "tag:September",
+        "tag:October",
+        "tag:November",
+        "tag:December"
+      ]
+    }
+  ],
+  "lastUpdate": 1790931780468
+}
