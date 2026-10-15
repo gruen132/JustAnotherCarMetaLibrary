@@ -1,7 +1,89 @@
 {
   "folders": [
     {
-      "id": "ryde4t3bknup",
+      "id": "i5asq4e6pm87",
+      "name": "WHITE",
+      "color": "#f5f5f5",
+      "gradient": [
+        "#f5f5f5",
+        "#f5f5f5"
+      ],
+      "colorStart": "#f5f5f5",
+      "colorEnd": "#f5f5f5",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "White",
+        "White 2012",
+        "White 2013",
+        "White 2014",
+        "White 2015",
+        "White 2019",
+        "White 2021",
+        "White 2022",
+        "White 2023",
+        "White 2024",
+        "White 2025",
+        "White 2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:White",
+        "tag:White 2012",
+        "tag:White 2013",
+        "tag:White 2014",
+        "tag:White 2015",
+        "tag:White 2019",
+        "tag:White 2021",
+        "tag:White 2022",
+        "tag:White 2023",
+        "tag:White 2024",
+        "tag:White 2025",
+        "tag:White 2026"
+      ]
+    },
+    {
+      "id": "oyct5we3e7q7",
+      "name": "WHITE EXPOSED",
+      "color": "#fad47a",
+      "gradient": [
+        "#fad47a",
+        "#fad47a"
+      ],
+      "colorStart": "#fad47a",
+      "colorEnd": "#fad47a",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "White Exposed",
+        "White Exposed 2022",
+        "White Exposed 2024",
+        "White Exposed 2025"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:White Exposed",
+        "tag:White Exposed 2022",
+        "tag:White Exposed 2024",
+        "tag:White Exposed 2025"
+      ]
+    },
+    {
+      "id": "czufxgt8dps7",
       "name": "GRAY",
       "color": "#90969e",
       "gradient": [
@@ -40,79 +122,7 @@
       ]
     },
     {
-      "id": "5pml5ldiqfz8",
-      "name": "WHITE",
-      "color": "#f5f5f5",
-      "gradient": [
-        "#f5f5f5",
-        "#f5f5f5"
-      ],
-      "colorStart": "#f5f5f5",
-      "colorEnd": "#f5f5f5",
-      "noGrad": true,
-      "gradTags": false,
-      "gradFolders": false,
-      "expanded": true,
-      "visible": true,
-      "tags": [
-        "White",
-        "White 2021",
-        "White 2022",
-        "White 2023",
-        "White 2024",
-        "White 2025",
-        "White 2026"
-      ],
-      "aliases": [],
-      "countAliases": true,
-      "children": [],
-      "_inheritedColor": null,
-      "useParentColor": false,
-      "itemsOrder": [
-        "tag:White",
-        "tag:White 2021",
-        "tag:White 2022",
-        "tag:White 2023",
-        "tag:White 2024",
-        "tag:White 2025",
-        "tag:White 2026"
-      ]
-    },
-    {
-      "id": "uk7fzdpt3d26",
-      "name": "WHITE EXPOSED",
-      "color": "#fad47a",
-      "gradient": [
-        "#fad47a",
-        "#fad47a"
-      ],
-      "colorStart": "#fad47a",
-      "colorEnd": "#fad47a",
-      "noGrad": true,
-      "gradTags": false,
-      "gradFolders": false,
-      "expanded": true,
-      "visible": true,
-      "tags": [
-        "White Exposed",
-        "White Exposed 2022",
-        "White Exposed 2024",
-        "White Exposed 2025"
-      ],
-      "aliases": [],
-      "countAliases": true,
-      "children": [],
-      "_inheritedColor": null,
-      "useParentColor": false,
-      "itemsOrder": [
-        "tag:White Exposed",
-        "tag:White Exposed 2022",
-        "tag:White Exposed 2024",
-        "tag:White Exposed 2025"
-      ]
-    },
-    {
-      "id": "pikc7go1jh3o",
+      "id": "gaz93fmehqij",
       "name": "NEW BLUR",
       "color": "#f06292",
       "gradient": [
@@ -143,7 +153,7 @@
       ]
     },
     {
-      "id": "3mdj0ydaui2e",
+      "id": "y663ns3ca01f",
       "name": "NO CAR",
       "color": "#546e7a",
       "gradient": [
@@ -174,7 +184,7 @@
       ]
     },
     {
-      "id": "w8og5meyke8a",
+      "id": "6rtzbkoax3m7",
       "name": "COMBINATIONS",
       "color": "#eceff1",
       "gradient": [
@@ -193,7 +203,7 @@
       "countAliases": true,
       "children": [
         {
-          "id": "smu6mgwkh4ap",
+          "id": "843r2u78ob64",
           "name": "Brake light",
           "color": "#ff1744",
           "gradient": [
@@ -212,7 +222,7 @@
           "countAliases": true,
           "children": [
             {
-              "id": "ona3at8s8bst",
+              "id": "siesi6mjk5jx",
               "name": "BL",
               "color": "#ff1744",
               "gradient": [
@@ -227,9 +237,6 @@
               "expanded": true,
               "visible": true,
               "tags": [
-                "Black BL",
-                "Black BL 2024",
-                "Black Striped BL",
                 "Gray BL",
                 "Gray BL 2023",
                 "Gray BL 2024",
@@ -250,9 +257,6 @@
               "_inheritedColor": null,
               "useParentColor": false,
               "itemsOrder": [
-                "tag:Black BL",
-                "tag:Black BL 2024",
-                "tag:Black Striped BL",
                 "tag:Gray BL",
                 "tag:Gray BL 2023",
                 "tag:Gray BL 2024",
@@ -269,7 +273,7 @@
               ]
             },
             {
-              "id": "5t005xjc9vpp",
+              "id": "88sj453t1hh6",
               "name": "NoBL",
               "color": "#607d8b",
               "gradient": [
@@ -284,7 +288,6 @@
               "expanded": true,
               "visible": true,
               "tags": [
-                "Black NoBL",
                 "Gray NoBL",
                 "Gray NoBL 2021",
                 "Gray NoBL 2022",
@@ -306,7 +309,6 @@
               "_inheritedColor": null,
               "useParentColor": false,
               "itemsOrder": [
-                "tag:Black NoBL",
                 "tag:Gray NoBL",
                 "tag:Gray NoBL 2021",
                 "tag:Gray NoBL 2022",
@@ -328,7 +330,7 @@
           "useParentColor": false
         },
         {
-          "id": "ph3f8zr7r9ar",
+          "id": "4y3vqgcmb78d",
           "name": "Exposure + brake light",
           "color": "#ff6522",
           "gradient": [
@@ -347,7 +349,7 @@
           "countAliases": true,
           "children": [
             {
-              "id": "zlz9uepec7us",
+              "id": "gxtyu54g2dq7",
               "name": "NoBL",
               "color": "#607d8b",
               "gradient": [
@@ -384,7 +386,7 @@
           "useParentColor": false
         },
         {
-          "id": "x70k2m739n6x",
+          "id": "zjkjorqjg2kf",
           "name": "Front blur + colour",
           "color": "#f06292",
           "gradient": [
@@ -403,7 +405,7 @@
           "countAliases": true,
           "children": [
             {
-              "id": "j3l44o1uj0an",
+              "id": "spbefc2b90go",
               "name": "Barely Blur",
               "color": "#e3c7d0",
               "gradient": [
@@ -418,11 +420,6 @@
               "expanded": true,
               "visible": true,
               "tags": [
-                "Gray Barely Blur",
-                "Gray 2023 Barely Blur",
-                "Gray 2024 Barely Blur",
-                "Gray 2025 Barely Blur",
-                "Gray 2026 Barely Blur",
                 "White Barely Blur",
                 "White 2022 Barely Blur",
                 "White 2024 Barely Blur",
@@ -431,15 +428,13 @@
                 "White Exposed Barely Blur",
                 "White Exposed 2024 Barely Blur",
                 "White Exposed 2025 Barely Blur",
-                "White Exposed 2026 Barely Blur",
+                "Gray Barely Blur",
+                "Gray 2023 Barely Blur",
+                "Gray 2024 Barely Blur",
+                "Gray 2025 Barely Blur",
+                "Gray 2026 Barely Blur",
                 "No Car Barely Blur",
-                "No Car 2026 Barely Blur",
-                "Black Barely Blur",
-                "Black 2024 Barely Blur",
-                "Black 2026 Barely Blur",
-                "Black Striped Barely Blur",
-                "Black Striped 2025 Barely Blur",
-                "Black Striped 2026 Barely Blur"
+                "No Car 2026 Barely Blur"
               ],
               "aliases": [],
               "countAliases": true,
@@ -447,11 +442,6 @@
               "_inheritedColor": null,
               "useParentColor": false,
               "itemsOrder": [
-                "tag:Gray Barely Blur",
-                "tag:Gray 2023 Barely Blur",
-                "tag:Gray 2024 Barely Blur",
-                "tag:Gray 2025 Barely Blur",
-                "tag:Gray 2026 Barely Blur",
                 "tag:White Barely Blur",
                 "tag:White 2022 Barely Blur",
                 "tag:White 2024 Barely Blur",
@@ -460,19 +450,17 @@
                 "tag:White Exposed Barely Blur",
                 "tag:White Exposed 2024 Barely Blur",
                 "tag:White Exposed 2025 Barely Blur",
-                "tag:White Exposed 2026 Barely Blur",
+                "tag:Gray Barely Blur",
+                "tag:Gray 2023 Barely Blur",
+                "tag:Gray 2024 Barely Blur",
+                "tag:Gray 2025 Barely Blur",
+                "tag:Gray 2026 Barely Blur",
                 "tag:No Car Barely Blur",
-                "tag:No Car 2026 Barely Blur",
-                "tag:Black Barely Blur",
-                "tag:Black 2024 Barely Blur",
-                "tag:Black 2026 Barely Blur",
-                "tag:Black Striped Barely Blur",
-                "tag:Black Striped 2025 Barely Blur",
-                "tag:Black Striped 2026 Barely Blur"
+                "tag:No Car 2026 Barely Blur"
               ]
             },
             {
-              "id": "akx537i4a9av",
+              "id": "ippxjun7zds2",
               "name": "Light Blur",
               "color": "#e6b4c5",
               "gradient": [
@@ -484,15 +472,9 @@
               "noGrad": true,
               "gradTags": false,
               "gradFolders": false,
-              "expanded": false,
+              "expanded": true,
               "visible": true,
               "tags": [
-                "Gray Light Blur",
-                "Gray 2022 Light Blur",
-                "Gray 2023 Light Blur",
-                "Gray 2024 Light Blur",
-                "Gray 2025 Light Blur",
-                "Gray 2026 Light Blur",
                 "White Light Blur",
                 "White 2022 Light Blur",
                 "White 2024 Light Blur",
@@ -501,15 +483,14 @@
                 "White Exposed Light Blur",
                 "White Exposed 2024 Light Blur",
                 "White Exposed 2025 Light Blur",
-                "White Exposed 2026 Light Blur",
+                "Gray Light Blur",
+                "Gray 2022 Light Blur",
+                "Gray 2023 Light Blur",
+                "Gray 2024 Light Blur",
+                "Gray 2025 Light Blur",
+                "Gray 2026 Light Blur",
                 "No Car Light Blur",
-                "No Car 2026 Light Blur",
-                "Black Light Blur",
-                "Black 2025 Light Blur",
-                "Black 2026 Light Blur",
-                "Black Striped Light Blur",
-                "Black Striped 2024 Light Blur",
-                "Black Striped 2026 Light Blur"
+                "No Car 2026 Light Blur"
               ],
               "aliases": [],
               "countAliases": true,
@@ -517,12 +498,6 @@
               "_inheritedColor": null,
               "useParentColor": false,
               "itemsOrder": [
-                "tag:Gray Light Blur",
-                "tag:Gray 2022 Light Blur",
-                "tag:Gray 2023 Light Blur",
-                "tag:Gray 2024 Light Blur",
-                "tag:Gray 2025 Light Blur",
-                "tag:Gray 2026 Light Blur",
                 "tag:White Light Blur",
                 "tag:White 2022 Light Blur",
                 "tag:White 2024 Light Blur",
@@ -531,19 +506,18 @@
                 "tag:White Exposed Light Blur",
                 "tag:White Exposed 2024 Light Blur",
                 "tag:White Exposed 2025 Light Blur",
-                "tag:White Exposed 2026 Light Blur",
+                "tag:Gray Light Blur",
+                "tag:Gray 2022 Light Blur",
+                "tag:Gray 2023 Light Blur",
+                "tag:Gray 2024 Light Blur",
+                "tag:Gray 2025 Light Blur",
+                "tag:Gray 2026 Light Blur",
                 "tag:No Car Light Blur",
-                "tag:No Car 2026 Light Blur",
-                "tag:Black Light Blur",
-                "tag:Black 2025 Light Blur",
-                "tag:Black 2026 Light Blur",
-                "tag:Black Striped Light Blur",
-                "tag:Black Striped 2024 Light Blur",
-                "tag:Black Striped 2026 Light Blur"
+                "tag:No Car 2026 Light Blur"
               ]
             },
             {
-              "id": "8vueqvx932sr",
+              "id": "8uc3v8kskg1g",
               "name": "Normal Blur",
               "color": "#e8a1b9",
               "gradient": [
@@ -556,23 +530,20 @@
               "gradTags": false,
               "gradFolders": false,
               "expanded": true,
-              "visible": false,
+              "visible": true,
               "tags": [
-                "Gray Normal Blur",
-                "Gray 2024 Normal Blur",
-                "Gray 2025 Normal Blur",
-                "Gray 2026 Normal Blur",
                 "White Normal Blur",
                 "White 2022 Normal Blur",
                 "White 2025 Normal Blur",
                 "White 2026 Normal Blur",
                 "White Exposed Normal Blur",
                 "White Exposed 2024 Normal Blur",
-                "White Exposed 2026 Normal Blur",
+                "Gray Normal Blur",
+                "Gray 2024 Normal Blur",
+                "Gray 2025 Normal Blur",
+                "Gray 2026 Normal Blur",
                 "No Car Normal Blur",
-                "No Car 2026 Normal Blur",
-                "Black Striped Normal Blur",
-                "Black Striped 2023 Normal Blur"
+                "No Car 2026 Normal Blur"
               ],
               "aliases": [],
               "countAliases": true,
@@ -580,21 +551,18 @@
               "_inheritedColor": null,
               "useParentColor": false,
               "itemsOrder": [
-                "tag:Gray Normal Blur",
-                "tag:Gray 2024 Normal Blur",
-                "tag:Gray 2025 Normal Blur",
-                "tag:Gray 2026 Normal Blur",
                 "tag:White Normal Blur",
                 "tag:White 2022 Normal Blur",
                 "tag:White 2025 Normal Blur",
                 "tag:White 2026 Normal Blur",
                 "tag:White Exposed Normal Blur",
                 "tag:White Exposed 2024 Normal Blur",
-                "tag:White Exposed 2026 Normal Blur",
+                "tag:Gray Normal Blur",
+                "tag:Gray 2024 Normal Blur",
+                "tag:Gray 2025 Normal Blur",
+                "tag:Gray 2026 Normal Blur",
                 "tag:No Car Normal Blur",
-                "tag:No Car 2026 Normal Blur",
-                "tag:Black Striped Normal Blur",
-                "tag:Black Striped 2023 Normal Blur"
+                "tag:No Car 2026 Normal Blur"
               ]
             }
           ],
@@ -606,7 +574,7 @@
       "useParentColor": false
     },
     {
-      "id": "pqnugxewi8m8",
+      "id": "p9hjyy9kcn4j",
       "name": "BLUR",
       "color": "#f06292",
       "gradient": [
@@ -625,7 +593,7 @@
       "countAliases": true,
       "children": [
         {
-          "id": "nbc1jy2i7unz",
+          "id": "gaxr0sbyf8zk",
           "name": "Where",
           "color": "#f06292",
           "gradient": [
@@ -642,10 +610,7 @@
           "tags": [
             "No Blur",
             "Front Blur",
-            "Left Blur",
-            "Right Blur",
-            "Ehime Blur",
-            "Blur Unsure"
+            "Right Blur"
           ],
           "aliases": [],
           "countAliases": true,
@@ -655,14 +620,11 @@
           "itemsOrder": [
             "tag:No Blur",
             "tag:Front Blur",
-            "tag:Left Blur",
-            "tag:Right Blur",
-            "tag:Ehime Blur",
-            "tag:Blur Unsure"
+            "tag:Right Blur"
           ]
         },
         {
-          "id": "14yihhf7833i",
+          "id": "an7kuivsggh8",
           "name": "Front blur strength",
           "color": "#f06292",
           "gradient": [
@@ -679,8 +641,7 @@
           "tags": [
             "Barely_FrontBlur",
             "Light_FrontBlur",
-            "Normal_FrontBlur",
-            "Heavy_FrontBlur"
+            "Normal_FrontBlur"
           ],
           "aliases": [],
           "countAliases": true,
@@ -690,8 +651,7 @@
           "itemsOrder": [
             "tag:Barely_FrontBlur",
             "tag:Light_FrontBlur",
-            "tag:Normal_FrontBlur",
-            "tag:Heavy_FrontBlur"
+            "tag:Normal_FrontBlur"
           ]
         }
       ],
@@ -699,7 +659,44 @@
       "useParentColor": false
     },
     {
-      "id": "2rv5xv57jns6",
+      "id": "s4ag1p6l6016",
+      "name": "GEN 3 ANTENNA",
+      "color": "#00bcd4",
+      "gradient": [
+        "#00bcd4",
+        "#00bcd4"
+      ],
+      "colorStart": "#00bcd4",
+      "colorEnd": "#00bcd4",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "High",
+        "Mid-High",
+        "Mid",
+        "Low",
+        "Gap",
+        "Special"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:High",
+        "tag:Mid-High",
+        "tag:Mid",
+        "tag:Low",
+        "tag:Gap",
+        "tag:Special"
+      ]
+    },
+    {
+      "id": "mjxye4la5s4c",
       "name": "BRAKE LIGHT",
       "color": "#ff1744",
       "gradient": [
@@ -728,7 +725,7 @@
       ]
     },
     {
-      "id": "x660vfmk9y2p",
+      "id": "mb2mirnit1mt",
       "name": "EXPOSURE",
       "color": "#ffb300",
       "gradient": [
@@ -757,7 +754,7 @@
       ]
     },
     {
-      "id": "t0cgvdijwphz",
+      "id": "rf0wpwhvd6cb",
       "name": "CAMERA",
       "color": "#00897b",
       "gradient": [
@@ -784,7 +781,7 @@
       ]
     },
     {
-      "id": "e8yn3lgexioy",
+      "id": "egadxhjeyfd3",
       "name": "YEAR",
       "color": "#377b4e",
       "gradient": [
@@ -833,7 +830,7 @@
       ]
     },
     {
-      "id": "eiib3x3h8p9m",
+      "id": "0ieh39bbz6uz",
       "name": "MONTH",
       "color": "#2661d8",
       "gradient": [
@@ -882,5 +879,5 @@
       ]
     }
   ],
-  "lastUpdate": 1792087960422
+  "lastUpdate": 1792095944321
 }
