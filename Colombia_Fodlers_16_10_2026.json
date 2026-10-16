@@ -196,7 +196,7 @@
       "noGrad": true,
       "gradTags": false,
       "gradFolders": false,
-      "expanded": true,
+      "expanded": false,
       "visible": true,
       "tags": [],
       "aliases": [],
@@ -342,7 +342,7 @@
           "noGrad": true,
           "gradTags": false,
           "gradFolders": false,
-          "expanded": true,
+          "expanded": false,
           "visible": true,
           "tags": [],
           "aliases": [],
@@ -398,7 +398,7 @@
           "noGrad": true,
           "gradTags": false,
           "gradFolders": false,
-          "expanded": true,
+          "expanded": false,
           "visible": true,
           "tags": [],
           "aliases": [],
@@ -586,7 +586,7 @@
       "noGrad": true,
       "gradTags": false,
       "gradFolders": false,
-      "expanded": true,
+      "expanded": false,
       "visible": true,
       "tags": [],
       "aliases": [],
@@ -696,6 +696,47 @@
       ]
     },
     {
+      "id": "ia2i5fqu1phj",
+      "name": "Dead Pixels",
+      "color": "#f8bfeb",
+      "gradient": [
+        "#c0f0f8",
+        "#183848"
+      ],
+      "colorStart": "#c0f0f8",
+      "colorEnd": "#183848",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "DeadPixel 2014-03 (7823,3317)",
+        "DeadPixel 2014-05 (6800,3945)",
+        "DeadPixel 2019-06 (13282,2453)",
+        "DeadPixel 2019-02 (8055,2715)",
+        "Example 2014-03 Dead Pixel",
+        "Example 2014-05 Dead Pixel",
+        "Example 2019-02 Dead Pixel",
+        "Example 2019-06 Dead Pixel"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "itemsOrder": [
+        "tag:DeadPixel 2014-03 (7823,3317)",
+        "tag:DeadPixel 2014-05 (6800,3945)",
+        "tag:DeadPixel 2019-06 (13282,2453)",
+        "tag:DeadPixel 2019-02 (8055,2715)",
+        "tag:Example 2014-03 Dead Pixel",
+        "tag:Example 2014-05 Dead Pixel",
+        "tag:Example 2019-02 Dead Pixel",
+        "tag:Example 2019-06 Dead Pixel"
+      ],
+      "useParentColor": false
+    },
+    {
       "id": "mjxye4la5s4c",
       "name": "BRAKE LIGHT",
       "color": "#ff1744",
@@ -709,10 +750,12 @@
       "gradTags": false,
       "gradFolders": false,
       "expanded": true,
-      "visible": true,
+      "visible": false,
       "tags": [
         "BL",
-        "NoBL"
+        "NoBL",
+        "Unexposed BL",
+        "Exposed BL"
       ],
       "aliases": [],
       "countAliases": true,
@@ -721,7 +764,9 @@
       "useParentColor": false,
       "itemsOrder": [
         "tag:BL",
-        "tag:NoBL"
+        "tag:NoBL",
+        "tag:Unexposed BL",
+        "tag:Exposed BL"
       ]
     },
     {
@@ -879,5 +924,5 @@
       ]
     }
   ],
-  "lastUpdate": 1792095944321
+  "lastUpdate": 1792155704377
 }
