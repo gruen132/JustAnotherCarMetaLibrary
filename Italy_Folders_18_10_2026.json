@@ -1,0 +1,537 @@
+{
+  "folders": [
+    {
+      "id": "683sm0p2et9n",
+      "name": "SMALLCAM",
+      "color": "#00c853",
+      "gradient": [
+        "#00c853",
+        "#00c853"
+      ],
+      "colorStart": "#00c853",
+      "colorEnd": "#00c853",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Smallcam",
+        "Smallcam 2024",
+        "Smallcam 2025",
+        "Smallcam 2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Smallcam",
+        "tag:Smallcam 2024",
+        "tag:Smallcam 2025",
+        "tag:Smallcam 2026"
+      ]
+    },
+    {
+      "id": "6ujmir153gun",
+      "name": "BLUE NO ANTENNA",
+      "color": "#3686cc",
+      "gradient": [
+        "#3686cc",
+        "#3686cc"
+      ],
+      "colorStart": "#3686cc",
+      "colorEnd": "#3686cc",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Blue No Antenna",
+        "Blue No Antenna 2019",
+        "Blue No Antenna 2020",
+        "Blue No Antenna 2021",
+        "Blue No Antenna 2022",
+        "Blue No Antenna 2023",
+        "Blue No Antenna 2024",
+        "Blue No Antenna 2025"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Blue No Antenna",
+        "tag:Blue No Antenna 2019",
+        "tag:Blue No Antenna 2020",
+        "tag:Blue No Antenna 2021",
+        "tag:Blue No Antenna 2022",
+        "tag:Blue No Antenna 2023",
+        "tag:Blue No Antenna 2024",
+        "tag:Blue No Antenna 2025"
+      ]
+    },
+    {
+      "id": "bz5mx2zhiqi6",
+      "name": "NO CAR NO ANTENNA",
+      "color": "#5f727c",
+      "gradient": [
+        "#5f727c",
+        "#5f727c"
+      ],
+      "colorStart": "#5f727c",
+      "colorEnd": "#5f727c",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "No Car No Antenna",
+        "No Car No Antenna 2018",
+        "No Car No Antenna 2019",
+        "No Car No Antenna 2021",
+        "No Car No Antenna 2022",
+        "No Car No Antenna 2023",
+        "No Car No Antenna 2024",
+        "No Car No Antenna 2025"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:No Car No Antenna",
+        "tag:No Car No Antenna 2018",
+        "tag:No Car No Antenna 2019",
+        "tag:No Car No Antenna 2021",
+        "tag:No Car No Antenna 2022",
+        "tag:No Car No Antenna 2023",
+        "tag:No Car No Antenna 2024",
+        "tag:No Car No Antenna 2025"
+      ]
+    },
+    {
+      "id": "we6r4ndfsuwf",
+      "name": "BLACK NO ANTENNA",
+      "color": "#333333",
+      "gradient": [
+        "#333333",
+        "#333333"
+      ],
+      "colorStart": "#333333",
+      "colorEnd": "#333333",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Black No Antenna",
+        "Black No Antenna 2022",
+        "Black No Antenna 2023",
+        "Black No Antenna 2024",
+        "Black No Antenna 2025"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Black No Antenna",
+        "tag:Black No Antenna 2022",
+        "tag:Black No Antenna 2023",
+        "tag:Black No Antenna 2024",
+        "tag:Black No Antenna 2025"
+      ]
+    },
+    {
+      "id": "oe38aclj3y79",
+      "name": "BLUE ANTENNA",
+      "color": "#1e88e5",
+      "gradient": [
+        "#1e88e5",
+        "#1e88e5"
+      ],
+      "colorStart": "#1e88e5",
+      "colorEnd": "#1e88e5",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Blue Antenna",
+        "Blue Antenna 2022"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Blue Antenna",
+        "tag:Blue Antenna 2022"
+      ]
+    },
+    {
+      "id": "ukx8wduvlu9u",
+      "name": "WHITE NO ANTENNA",
+      "color": "#d8d8d8",
+      "gradient": [
+        "#d8d8d8",
+        "#d8d8d8"
+      ],
+      "colorStart": "#d8d8d8",
+      "colorEnd": "#d8d8d8",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "White No Antenna",
+        "White No Antenna 2023",
+        "White No Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:White No Antenna",
+        "tag:White No Antenna 2023",
+        "tag:White No Antenna 2024"
+      ]
+    },
+    {
+      "id": "5nkz3upx70k1",
+      "name": "NEW BLUR",
+      "color": "#f06292",
+      "gradient": [
+        "#f06292",
+        "#f06292"
+      ],
+      "colorStart": "#f06292",
+      "colorEnd": "#f06292",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "New Blur",
+        "New Blur 2025"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:New Blur",
+        "tag:New Blur 2025"
+      ]
+    },
+    {
+      "id": "a6erhnco4b7a",
+      "name": "GEN 3",
+      "color": "#00bcd4",
+      "gradient": [
+        "#00bcd4",
+        "#00bcd4"
+      ],
+      "colorStart": "#00bcd4",
+      "colorEnd": "#00bcd4",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Gen 3 A",
+        "Gen 3 B",
+        "Gen 3 Blurred B",
+        "Gen 3 Blurred C",
+        "Gen 3 C High Blurred",
+        "Gen 3 CA High Blurred",
+        "Gen 3 CB",
+        "Gen 3 CB High Blurred",
+        "Gen 3 High",
+        "Gen 3 Low",
+        "Gen 3 No Antenna",
+        "Gen 3 Tall A",
+        "Gen 3 Tall B"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Gen 3 A",
+        "tag:Gen 3 B",
+        "tag:Gen 3 Blurred B",
+        "tag:Gen 3 Blurred C",
+        "tag:Gen 3 C High Blurred",
+        "tag:Gen 3 CA High Blurred",
+        "tag:Gen 3 CB",
+        "tag:Gen 3 CB High Blurred",
+        "tag:Gen 3 High",
+        "tag:Gen 3 Low",
+        "tag:Gen 3 No Antenna",
+        "tag:Gen 3 Tall A",
+        "tag:Gen 3 Tall B"
+      ]
+    },
+    {
+      "id": "z4w257monnqg",
+      "name": "DEAD PIXELS",
+      "color": "#f8bfeb",
+      "gradient": [
+        "#f8bfeb",
+        "#f8bfeb"
+      ],
+      "colorStart": "#f8bfeb",
+      "colorEnd": "#f8bfeb",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "DeadPixel 2011-07 (3541,2246)",
+        "DeadPixel 2011-07 (6960,2552)",
+        "DeadPixel 2011-08 (1681,4278)",
+        "DeadPixel 2011-10 (10547,1204)",
+        "DeadPixel 2011-11 (4152,3761)",
+        "DeadPixel 2011-12 (5952,1217)",
+        "DeadPixel 2012-01 (7002,2078)",
+        "DeadPixel 2012-01 (9615,3742)",
+        "DeadPixel 2019-04 (5843,1179)"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:DeadPixel 2011-07 (3541,2246)",
+        "tag:DeadPixel 2011-07 (6960,2552)",
+        "tag:DeadPixel 2011-08 (1681,4278)",
+        "tag:DeadPixel 2011-10 (10547,1204)",
+        "tag:DeadPixel 2011-11 (4152,3761)",
+        "tag:DeadPixel 2011-12 (5952,1217)",
+        "tag:DeadPixel 2012-01 (7002,2078)",
+        "tag:DeadPixel 2012-01 (9615,3742)",
+        "tag:DeadPixel 2019-04 (5843,1179)"
+      ]
+    },
+    {
+      "id": "m154nptzlpo3",
+      "name": "ROOF RACK",
+      "color": "#795548",
+      "gradient": [
+        "#795548",
+        "#795548"
+      ],
+      "colorStart": "#795548",
+      "colorEnd": "#795548",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [],
+      "aliases": [],
+      "countAliases": true,
+      "children": [
+        {
+          "id": "6x5p7f82l0nx",
+          "name": "Barely Bars",
+          "color": "#71b684",
+          "gradient": [
+            "#71b684",
+            "#71b684"
+          ],
+          "colorStart": "#71b684",
+          "colorEnd": "#71b684",
+          "noGrad": false,
+          "gradTags": true,
+          "gradFolders": false,
+          "expanded": true,
+          "visible": true,
+          "tags": [
+            "Smallcam Barely Bars",
+            "Smallcam Barely Bars 2024",
+            "Smallcam Barely Bars 2025",
+            "Smallcam Barely Bars 2026"
+          ],
+          "aliases": [],
+          "countAliases": true,
+          "children": [],
+          "_inheritedColor": null,
+          "useParentColor": false,
+          "itemsOrder": [
+            "tag:Smallcam Barely Bars",
+            "tag:Smallcam Barely Bars 2024",
+            "tag:Smallcam Barely Bars 2025",
+            "tag:Smallcam Barely Bars 2026"
+          ]
+        }
+      ],
+      "_inheritedColor": null,
+      "useParentColor": false
+    },
+    {
+      "id": "n310jpeo0rnv",
+      "name": "CAMERA",
+      "color": "#00897b",
+      "gradient": [
+        "#00897b",
+        "#00897b"
+      ],
+      "colorStart": "#00897b",
+      "colorEnd": "#00897b",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Gen 2",
+        "Gen 3",
+        "Badcam"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Gen 2",
+        "tag:Gen 3",
+        "tag:Badcam"
+      ]
+    },
+    {
+      "id": "6ux42vso13nf",
+      "name": "YEAR",
+      "color": "#377b4e",
+      "gradient": [
+        "#377b4e",
+        "#a5a122"
+      ],
+      "colorStart": "#377b4e",
+      "colorEnd": "#a5a122",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:2008",
+        "tag:2009",
+        "tag:2010",
+        "tag:2011",
+        "tag:2012",
+        "tag:2013",
+        "tag:2014",
+        "tag:2015",
+        "tag:2016",
+        "tag:2017",
+        "tag:2018",
+        "tag:2019",
+        "tag:2020",
+        "tag:2021",
+        "tag:2022",
+        "tag:2023",
+        "tag:2024",
+        "tag:2025",
+        "tag:2026"
+      ]
+    },
+    {
+      "id": "8k3sxa8sf54z",
+      "name": "MONTH",
+      "color": "#2661d8",
+      "gradient": [
+        "#2661d8",
+        "#2661d8"
+      ],
+      "colorStart": "#2661d8",
+      "colorEnd": "#2661d8",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:January",
+        "tag:February",
+        "tag:March",
+        "tag:April",
+        "tag:May",
+        "tag:June",
+        "tag:July",
+        "tag:August",
+        "tag:September",
+        "tag:October",
+        "tag:November",
+        "tag:December"
+      ]
+    }
+  ],
+  "lastUpdate": 1792347451519
+}
