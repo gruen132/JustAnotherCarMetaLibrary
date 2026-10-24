@@ -1,0 +1,503 @@
+{
+  "folders": [
+    {
+      "id": "die7zdzodeyf",
+      "name": "BLUE ANTENNA",
+      "color": "#1e88e5",
+      "gradient": [
+        "#1e88e5",
+        "#1e88e5"
+      ],
+      "colorStart": "#1e88e5",
+      "colorEnd": "#1e88e5",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "Blue Antenna",
+        "Blue Antenna 2021",
+        "Blue Antenna 2022",
+        "Blue Antenna 2023",
+        "Blue Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Blue Antenna",
+        "tag:Blue Antenna 2021",
+        "tag:Blue Antenna 2022",
+        "tag:Blue Antenna 2023",
+        "tag:Blue Antenna 2024"
+      ]
+    },
+    {
+      "id": "5ogrvhm0xwu6",
+      "name": "BLUE NO ANTENNA",
+      "color": "#3686cc",
+      "gradient": [
+        "#3686cc",
+        "#3686cc"
+      ],
+      "colorStart": "#3686cc",
+      "colorEnd": "#3686cc",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "Blue No Antenna",
+        "Blue No Antenna 2019",
+        "Blue No Antenna 2021",
+        "Blue No Antenna 2022",
+        "Blue No Antenna 2023",
+        "Blue No Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Blue No Antenna",
+        "tag:Blue No Antenna 2019",
+        "tag:Blue No Antenna 2021",
+        "tag:Blue No Antenna 2022",
+        "tag:Blue No Antenna 2023",
+        "tag:Blue No Antenna 2024"
+      ]
+    },
+    {
+      "id": "y2cdw9n82wot",
+      "name": "BLACK ANTENNA",
+      "color": "#191919",
+      "gradient": [
+        "#191919",
+        "#191919"
+      ],
+      "colorStart": "#191919",
+      "colorEnd": "#191919",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "Black Antenna",
+        "Black Antenna 2023",
+        "Black Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Black Antenna",
+        "tag:Black Antenna 2023",
+        "tag:Black Antenna 2024"
+      ]
+    },
+    {
+      "id": "s4gzixkqq7jt",
+      "name": "RED ANTENNA",
+      "color": "#d32f2f",
+      "gradient": [
+        "#d32f2f",
+        "#d32f2f"
+      ],
+      "colorStart": "#d32f2f",
+      "colorEnd": "#d32f2f",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "Red Antenna",
+        "Red Antenna 2023"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Red Antenna",
+        "tag:Red Antenna 2023"
+      ]
+    },
+    {
+      "id": "cl10rl6ovd2e",
+      "name": "BLACK NO ANTENNA",
+      "color": "#333333",
+      "gradient": [
+        "#333333",
+        "#333333"
+      ],
+      "colorStart": "#333333",
+      "colorEnd": "#333333",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "Black No Antenna",
+        "Black No Antenna 2019",
+        "Black No Antenna 2023",
+        "Black No Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Black No Antenna",
+        "tag:Black No Antenna 2019",
+        "tag:Black No Antenna 2023",
+        "tag:Black No Antenna 2024"
+      ]
+    },
+    {
+      "id": "7av42boxtxua",
+      "name": "RED NO ANTENNA",
+      "color": "#be4343",
+      "gradient": [
+        "#be4343",
+        "#be4343"
+      ],
+      "colorStart": "#be4343",
+      "colorEnd": "#be4343",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "Red No Antenna",
+        "Red No Antenna 2023"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Red No Antenna",
+        "tag:Red No Antenna 2023"
+      ]
+    },
+    {
+      "id": "hvzb54ykzev2",
+      "name": "NO CAR NO ANTENNA",
+      "color": "#5f727c",
+      "gradient": [
+        "#5f727c",
+        "#5f727c"
+      ],
+      "colorStart": "#5f727c",
+      "colorEnd": "#5f727c",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "No Car No Antenna",
+        "No Car No Antenna 2022",
+        "No Car No Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:No Car No Antenna",
+        "tag:No Car No Antenna 2022",
+        "tag:No Car No Antenna 2024"
+      ]
+    },
+    {
+      "id": "b22k6npxyrn8",
+      "name": "WHITE ANTENNA",
+      "color": "#f5f5f5",
+      "gradient": [
+        "#f5f5f5",
+        "#f5f5f5"
+      ],
+      "colorStart": "#f5f5f5",
+      "colorEnd": "#f5f5f5",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": false,
+      "tags": [
+        "White Antenna",
+        "White Antenna 2021",
+        "White Antenna 2024"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:White Antenna",
+        "tag:White Antenna 2021",
+        "tag:White Antenna 2024"
+      ]
+    },
+    {
+      "id": "mosgld4vcv4l",
+      "name": "GEN 3",
+      "color": "#00bcd4",
+      "gradient": [
+        "#00bcd4",
+        "#00bcd4"
+      ],
+      "colorStart": "#00bcd4",
+      "colorEnd": "#00bcd4",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Gen 3 A",
+        "Gen 3 Flag",
+        "Gen 3 Flag",
+        "Gen 3 Flag",
+        "Gen 3 Blurred CB",
+        "Gen 3 Blurred CB",
+        "Gen 3 CB",
+        "Gen 3 Flag",
+        "Gen 3 Hidden",
+        "Gen 3 High Flag",
+        "Gen 3 Low",
+        "Gen 3 No Antenna",
+        "Gen 3 High Flag"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Gen 3 A",
+        "tag:Gen 3 Blurred CB",
+        "tag:Gen 3 CB",
+        "tag:Gen 3 Flag",
+        "tag:Gen 3 Hidden",
+        "tag:Gen 3 Low",
+        "tag:Gen 3 No Antenna",
+        "tag:Gen 3 High Flag"
+      ]
+    },
+    {
+      "id": "w6zj5qqgbk6v",
+      "name": "DEAD PIXELS",
+      "color": "#f8bfeb",
+      "gradient": [
+        "#f8bfeb",
+        "#f8bfeb"
+      ],
+      "colorStart": "#f8bfeb",
+      "colorEnd": "#f8bfeb",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "DeadPixel 2012-02 (4549,400)",
+        "DeadPixel 2012-03 (1089,2111)",
+        "DeadPixel 2012-03 (11818,1823)",
+        "DeadPixel 2012-03 (12121,2238)",
+        "DeadPixel 2012-03 (271,1272)",
+        "DeadPixel 2012-03 (8224,2479)",
+        "DeadPixel 2012-03 (8551,1413)",
+        "DeadPixel 2012-04 (10017,4296)",
+        "DeadPixel 2012-04 (2098,2468)",
+        "DeadPixel 2012-04 (6761,3571)",
+        "DeadPixel 2012-06 (8059,1664)",
+        "DeadPixel 2015-06 (9369,1108)",
+        "DeadPixel 2021-03 (10834,4282)",
+        "DeadPixel 2025-06 (910,2138)",
+        "DeadPixel unsure"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:DeadPixel 2012-02 (4549,400)",
+        "tag:DeadPixel 2012-03 (1089,2111)",
+        "tag:DeadPixel 2012-03 (11818,1823)",
+        "tag:DeadPixel 2012-03 (12121,2238)",
+        "tag:DeadPixel 2012-03 (271,1272)",
+        "tag:DeadPixel 2012-03 (8224,2479)",
+        "tag:DeadPixel 2012-03 (8551,1413)",
+        "tag:DeadPixel 2012-04 (10017,4296)",
+        "tag:DeadPixel 2012-04 (2098,2468)",
+        "tag:DeadPixel 2012-04 (6761,3571)",
+        "tag:DeadPixel 2012-06 (8059,1664)",
+        "tag:DeadPixel 2015-06 (9369,1108)",
+        "tag:DeadPixel 2021-03 (10834,4282)",
+        "tag:DeadPixel 2025-06 (910,2138)",
+        "tag:DeadPixel unsure"
+      ]
+    },
+    {
+      "id": "3oyf0g3nnior",
+      "name": "COMBINATIONS",
+      "color": "#eceff1",
+      "gradient": [
+        "#eceff1",
+        "#eceff1"
+      ],
+      "colorStart": "#eceff1",
+      "colorEnd": "#eceff1",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false
+    },
+    {
+      "id": "m7juwiopl7kw",
+      "name": "CAMERA",
+      "color": "#00bcd4",
+      "gradient": [
+        "#00bcd4",
+        "#00bcd4"
+      ],
+      "colorStart": "#00bcd4",
+      "colorEnd": "#00bcd4",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "Gen 3"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:Gen 3"
+      ]
+    },
+    {
+      "id": "d18zkm48ijlk",
+      "name": "YEAR",
+      "color": "#377b4e",
+      "gradient": [
+        "#377b4e",
+        "#a5a122"
+      ],
+      "colorStart": "#377b4e",
+      "colorEnd": "#a5a122",
+      "noGrad": false,
+      "gradTags": true,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "2012",
+        "2015",
+        "2018",
+        "2019",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:2012",
+        "tag:2015",
+        "tag:2018",
+        "tag:2019",
+        "tag:2021",
+        "tag:2022",
+        "tag:2023",
+        "tag:2024",
+        "tag:2025",
+        "tag:2026"
+      ]
+    },
+    {
+      "id": "d9qcfcnfcmla",
+      "name": "MONTH",
+      "color": "#2661d8",
+      "gradient": [
+        "#2661d8",
+        "#2661d8"
+      ],
+      "colorStart": "#2661d8",
+      "colorEnd": "#2661d8",
+      "noGrad": true,
+      "gradTags": false,
+      "gradFolders": false,
+      "expanded": true,
+      "visible": true,
+      "tags": [
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "aliases": [],
+      "countAliases": true,
+      "children": [],
+      "_inheritedColor": null,
+      "useParentColor": false,
+      "itemsOrder": [
+        "tag:February",
+        "tag:March",
+        "tag:April",
+        "tag:May",
+        "tag:June",
+        "tag:July",
+        "tag:August",
+        "tag:September",
+        "tag:October",
+        "tag:November",
+        "tag:December"
+      ]
+    }
+  ],
+  "lastUpdate": 1792837892747
+}
